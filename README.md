@@ -6,8 +6,7 @@
 3. [Estrutura do Projeto](#estrutura-do-projeto)
 4. [Classes e Métodos](#classes-e-métodos)
 5. [Como Executar](#como-executar)
-6. [Contribuição](#contribuição)
-7. [Licença](#licença)
+6. [Licença](#licença)
 
 ---
 
