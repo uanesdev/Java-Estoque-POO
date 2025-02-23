@@ -90,7 +90,7 @@ O projeto está organizado da seguinte forma:
 2. **Passos**:
    - Clone o repositório:
      ```bash
-     git clone https://github.com/uanesdev/seu-projeto.git
+     git clone https://github.com/uanesdev/Java-Estoque-POO
      ```
    - Abra o projeto na sua IDE ou compile via terminal:
      ```bash
