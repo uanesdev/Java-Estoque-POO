@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 public class Sistema {
     private final ArrayList<Produto> produtos;
-    private Scanner scanner;
+    private final Scanner scanner;
 
     public Sistema() {
         produtos = new ArrayList<>();
